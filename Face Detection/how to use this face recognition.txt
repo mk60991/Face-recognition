@@ -1,0 +1,6 @@
+1. first run :face_dataset.py : to take photo from camera for training
+
+2. second run : training.py : to trained dataset which is stored in dataSet folder
+
+
+3. finally : face_recognition.py : to detect faces
