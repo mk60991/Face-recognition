@@ -1,4 +1,4 @@
-1. first run :face_dataset.py : to take photo from camera for training
+1. first run :face_dataset.py : to take photo from camera for training. when run it require "enter your id:"
 
 2. second run : training.py : to trained dataset which is stored in dataSet folder
 
